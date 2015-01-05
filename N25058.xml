@@ -108,8 +108,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:033205_0000_0FF6748DCBFA15F8"/>
-            <pb facs="tcp:033205_0001_0FF67460251EC6F0"/>
+            <pb facs="unknown:033205_0000_0FF6748DCBFA15F8"/>
+            <pb facs="unknown:033205_0001_0FF67460251EC6F0"/>
             <p>A CATALOGUE OF BOOKS <hi>PUBLISHED</hi> IN <hi>AMERICA,</hi> AND FOR SALE AT THE BOOKSTORE OF JOHN WEST, <hi>No. 75, Cornhill, BOSTON.</hi>
             </p>
             <p>
@@ -119,7 +119,8 @@
       </front>
       <body>
          <div type="catalogue_of_books">
-            <pb facs="tcp:033205_0002_0FF6746244626020" rendition="simple:additions"/>
+            <pb facs="unknown:033205_0002_0FF6746244626020"
+                rendition="simple:additions"/>
             <head>JOHN WEST's Catalogue of Books.</head>
             <div n="a" type="list">
                <p>
@@ -191,7 +192,7 @@
                            </gap>
                         </cell>
                      </row>
-                     <pb n="4" facs="tcp:033205_0003_0FF6746501500388"/>
+                     <pb n="4" facs="unknown:033205_0003_0FF6746501500388"/>
                      <row>
                         <cell>American Pocket Atlas, containing a map of each State, and of the United States, with a conciſe deſcription of each ſtate,</cell>
                         <cell>1</cell>
@@ -268,7 +269,7 @@
                         <cell>2</cell>
                         <cell> </cell>
                      </row>
-                     <pb n="5" facs="tcp:033205_0004_0FF674669A0725A0"/>
+                     <pb n="5" facs="unknown:033205_0004_0FF674669A0725A0"/>
                      <row>
                         <cell>Artiſt's Aſſiſtant, in Drawing, Perſpective, Painting, &amp;c.</cell>
                         <cell> </cell>
@@ -399,7 +400,7 @@
                         <cell> </cell>
                         <cell>75</cell>
                      </row>
-                     <pb n="6" facs="tcp:033205_0005_0FF674692D19D278"/>
+                     <pb n="6" facs="unknown:033205_0005_0FF674692D19D278"/>
                      <row>
                         <cell>Booth's Reign of Grace, <hi>from its Riſe to its Conſummation,</hi>
                         </cell>
@@ -496,7 +497,7 @@
                         <cell>1</cell>
                         <cell>50</cell>
                      </row>
-                     <pb n="7" facs="tcp:033205_0006_0FF6746CB35A7818"/>
+                     <pb n="7" facs="unknown:033205_0006_0FF6746CB35A7818"/>
                      <row>
                         <cell>Bell's Syſtem of Surgery,</cell>
                         <cell>8</cell>
@@ -601,7 +602,7 @@
                </p>
             </div>
             <div n="c" type="list">
-               <pb n="8" facs="tcp:033205_0007_0FF6746EFB536C78"/>
+               <pb n="8" facs="unknown:033205_0007_0FF6746EFB536C78"/>
                <p>
                   <table>
                      <head>C</head>
@@ -703,7 +704,7 @@
                         <cell> </cell>
                         <cell>37½</cell>
                      </row>
-                     <pb n="9" facs="tcp:033205_0008_0FF67470DA482A28"/>
+                     <pb n="9" facs="unknown:033205_0008_0FF67470DA482A28"/>
                      <row>
                         <cell>Cooper's Hiſtory of South America,</cell>
                         <cell> </cell>
@@ -804,7 +805,7 @@
                         <cell>3</cell>
                         <cell>33</cell>
                      </row>
-                     <pb n="10" facs="tcp:033205_0009_0FF67472E69D77B0"/>
+                     <pb n="10" facs="unknown:033205_0009_0FF67472E69D77B0"/>
                      <row>
                         <cell>Caſtles of Athlin and Dunbayne; a Highland Story, by the Author of Romance of the Foreſt, Myſteries of Udolpho, &amp;c. &amp;c.</cell>
                         <cell> </cell>
@@ -897,7 +898,7 @@
                         <cell>1</cell>
                         <cell> </cell>
                      </row>
-                     <pb n="11" facs="tcp:033205_0010_0FF67475DCFAEA30"/>
+                     <pb n="11" facs="unknown:033205_0010_0FF67475DCFAEA30"/>
                      <row>
                         <cell>Dodd's Thoughts in Priſon, to which are add<g ref="char:EOLhyphen"/>ed, Miſcellaneous Pieces,</cell>
                         <cell> </cell>
@@ -1010,7 +1011,7 @@
                         <cell> </cell>
                         <cell>62½</cell>
                      </row>
-                     <pb n="12" facs="tcp:033205_0011_0FF674780F0922E8"/>
+                     <pb n="12" facs="unknown:033205_0011_0FF674780F0922E8"/>
                      <row>
                         <cell>Eſpinaſſe's Digeſt of the Law of Actions at Niſi Prius, 2 vols.</cell>
                         <cell>2</cell>
@@ -1118,7 +1119,7 @@
                         <cell> </cell>
                         <cell>66⅔</cell>
                      </row>
-                     <pb n="13" facs="tcp:033205_0012_0FF67479AC68AED0"/>
+                     <pb n="13" facs="unknown:033205_0012_0FF67479AC68AED0"/>
                      <row>
                         <cell>Frankli<gap reason="illegible" resp="#PDCC" extent="3 letters">
                               <desc>•••</desc>
@@ -1212,7 +1213,7 @@
                         <cell> </cell>
                         <cell>37½</cell>
                      </row>
-                     <pb n="14" facs="tcp:033205_0013_0FF6747BE96D29E0"/>
+                     <pb n="14" facs="unknown:033205_0013_0FF6747BE96D29E0"/>
                      <row>
                         <cell>Flavel's Saint indeed, or the great work of a Chriſtian, opened and preſſed,</cell>
                         <cell> </cell>
@@ -1312,7 +1313,7 @@
                         <cell>5</cell>
                         <cell>25</cell>
                      </row>
-                     <pb n="15" facs="tcp:033205_0014_0FF6747D8BC87AC0"/>
+                     <pb n="15" facs="unknown:033205_0014_0FF6747D8BC87AC0"/>
                      <row>
                         <cell>Gay's Fables,</cell>
                         <cell> </cell>
@@ -1428,7 +1429,7 @@
                            </gap>
                         </cell>
                      </row>
-                     <pb n="16" facs="tcp:033205_0015_0FF6748029D5F9E8"/>
+                     <pb n="16" facs="unknown:033205_0015_0FF6748029D5F9E8"/>
                      <row>
                         <cell>Hunter on the Blood, Inflammation and gun<g ref="char:EOLhyphen"/>ſhot Wounds, with an account of the Author's life, 2 vols.</cell>
                         <cell>4</cell>
@@ -1531,7 +1532,7 @@
                         <cell> </cell>
                         <cell>75</cell>
                      </row>
-                     <pb n="17" facs="tcp:033205_0016_0FF6748262893B78"/>
+                     <pb n="17" facs="unknown:033205_0016_0FF6748262893B78"/>
                      <row>
                         <cell>Jenyns' Inquiry into the Nature and Origin of Evil,</cell>
                         <cell> </cell>
@@ -1637,7 +1638,7 @@
                </p>
             </div>
             <div n="l" type="list">
-               <pb n="18" facs="tcp:033205_0017_0FF67484017B1EB0"/>
+               <pb n="18" facs="unknown:033205_0017_0FF67484017B1EB0"/>
                <p>
                   <table>
                      <head>L</head>
@@ -1731,7 +1732,7 @@
                         <cell>1</cell>
                         <cell>50</cell>
                      </row>
-                     <pb n="19" facs="tcp:033205_0018_0FF6748666583150"/>
+                     <pb n="19" facs="unknown:033205_0018_0FF6748666583150"/>
                      <row>
                         <cell>Lay Preacher; or, Short Sermons for Idle Readers,</cell>
                         <cell> </cell>
@@ -1814,7 +1815,7 @@
                         <cell> </cell>
                         <cell>87½</cell>
                      </row>
-                     <pb n="20" facs="tcp:033205_0019_0FF67489F1EA07C8"/>
+                     <pb n="20" facs="unknown:033205_0019_0FF67489F1EA07C8"/>
                      <row>
                         <cell>Letters of an Italian Nun, and an Engliſh Gentleman, from the French of Rouſſean,</cell>
                         <cell> </cell>
@@ -1905,7 +1906,7 @@
                         <cell>1</cell>
                         <cell> </cell>
                      </row>
-                     <pb n="21" facs="tcp:033205_0020_0FF6748B895E3568"/>
+                     <pb n="21" facs="unknown:033205_0020_0FF6748B895E3568"/>
                      <row>
                         <cell>M'Ewen on the Types, Figures and Alle<g ref="char:EOLhyphen"/>gories of the Old Teſtament,</cell>
                         <cell> </cell>
@@ -2016,7 +2017,7 @@
                         <cell>1</cell>
                         <cell> </cell>
                      </row>
-                     <pb n="22" facs="tcp:033205_0021_0FF6745E903867A0"/>
+                     <pb n="22" facs="unknown:033205_0021_0FF6745E903867A0"/>
                      <row>
                         <cell>Myſteries of Udolpho: a Romance, by the Author of Romance of the Foreſt; a Sici<g ref="char:EOLhyphen"/>lian Romance, &amp;c. 3 vols.</cell>
                         <cell>2</cell>
@@ -2121,7 +2122,7 @@
                         <cell> </cell>
                         <cell>75</cell>
                      </row>
-                     <pb n="23" facs="tcp:033205_0022_0FF6748F985B7940"/>
+                     <pb n="23" facs="unknown:033205_0022_0FF6748F985B7940"/>
                      <row>
                         <cell>Neckar, on the Importance of Religious Opin<g ref="char:EOLhyphen"/>ions,</cell>
                         <cell> </cell>
@@ -2267,7 +2268,7 @@
                         <cell> </cell>
                         <cell>87½</cell>
                      </row>
-                     <pb n="24" facs="tcp:033205_0023_0FF67493184F2118"/>
+                     <pb n="24" facs="unknown:033205_0023_0FF67493184F2118"/>
                      <row>
                         <cell>Prieſtly's (Dr. Joſeph<gap reason="illegible" resp="#PDCC" extent="2 letters">
                               <desc>••</desc>
@@ -2373,7 +2374,7 @@
                         <cell> </cell>
                         <cell>75</cell>
                      </row>
-                     <pb n="25" facs="tcp:033205_0024_0FF67494A917CA68"/>
+                     <pb n="25" facs="unknown:033205_0024_0FF67494A917CA68"/>
                      <row>
                         <cell>Pomfret's Poems, on Several Occaſions, to which are added, his Remains, with ſome account of his Life, and Writings, 37½ and</cell>
                         <cell> </cell>
@@ -2454,7 +2455,7 @@
                               <desc>•</desc>
                            </gap>5</cell>
                      </row>
-                     <pb n="26" facs="tcp:033205_0025_0FF67496423546F0"/>
+                     <pb n="26" facs="unknown:033205_0025_0FF67496423546F0"/>
                      <row>
                         <cell>Peter Porcupine's Works; containing Bone to Gnaw, New Year's Gift, Little plain Engliſh, &amp;c.</cell>
                         <cell>2</cell>
@@ -2532,7 +2533,7 @@
                         <cell>1</cell>
                         <cell>66⅔</cell>
                      </row>
-                     <pb n="27" facs="tcp:033205_0026_0FF674986377D198"/>
+                     <pb n="27" facs="unknown:033205_0026_0FF674986377D198"/>
                      <row>
                         <cell>Religious Courtſhip; or, the Neceſſity of Marrying Religious Huſbands and Wives only,</cell>
                         <cell> </cell>
@@ -2615,7 +2616,7 @@
                         <cell> </cell>
                         <cell>66⅔</cell>
                      </row>
-                     <pb n="28" facs="tcp:033205_0027_0FF6749B215562E0"/>
+                     <pb n="28" facs="unknown:033205_0027_0FF6749B215562E0"/>
                      <row>
                         <cell>SENECA's Morals, by way of Abſtract, to which is added, a Diſcourſe under the title of an After Thought,</cell>
                         <cell>1</cell>
@@ -2701,7 +2702,7 @@
                         <cell> </cell>
                         <cell>62½</cell>
                      </row>
-                     <pb n="29" facs="tcp:033205_0028_0FF6749D89A11E50"/>
+                     <pb n="29" facs="unknown:033205_0028_0FF6749D89A11E50"/>
                      <row>
                         <cell>Smith's (Adam) Inquiry into the Nature and Cauſes of the Wealth of Nations, 3 vols.</cell>
                         <cell>3</cell>
@@ -2796,7 +2797,7 @@
                         <cell>2</cell>
                         <cell> </cell>
                      </row>
-                     <pb n="30" facs="tcp:033205_0029_0FF6749FC18DDB90"/>
+                     <pb n="30" facs="unknown:033205_0029_0FF6749FC18DDB90"/>
                      <row>
                         <cell>Village Curate, a Poem,</cell>
                         <cell> </cell>
@@ -2891,7 +2892,7 @@
                         <cell> </cell>
                         <cell>75</cell>
                      </row>
-                     <pb n="31" facs="tcp:033205_0030_0FF674A241B92D68"/>
+                     <pb n="31" facs="unknown:033205_0030_0FF674A241B92D68"/>
                      <row>
                         <cell>Watſon's (Biſhop) Apology for Chriſtianity, addreſſed to Edward Gibbon, Eſq.</cell>
                         <cell> </cell>
@@ -2981,7 +2982,7 @@
                         <cell> </cell>
                         <cell>50</cell>
                      </row>
-                     <pb n="32" facs="tcp:033205_0031_0FF674A50B81B978"/>
+                     <pb n="32" facs="unknown:033205_0031_0FF674A50B81B978"/>
                      <row>
                         <cell>White on Lying-in-Women,</cell>
                         <cell>1</cell>
@@ -3057,7 +3058,7 @@
             </div>
             <div n="comedies" type="list">
                <list>
-                  <pb n="33" facs="tcp:033205_0032_0FF674D486202938"/>
+                  <pb n="33" facs="unknown:033205_0032_0FF674D486202938"/>
                   <head>COMEDIES.</head>
                   <item>Belle's Stratagem.</item>
                   <item>Bold Stroke for a Wife.</item>
@@ -3096,7 +3097,7 @@
                   <item>Incle and Yarico,</item>
                   <item>Mountaineers,</item>
                   <item>
-                     <pb n="34" facs="tcp:033205_0033_0FF674D6B4234E28"/>Haunted Tower,</item>
+                     <pb n="34" facs="unknown:033205_0033_0FF674D6B4234E28"/>Haunted Tower,</item>
                   <item>Lionel and Clariſſa,</item>
                   <item>Lord of the Manor,</item>
                   <item>Love in a Village,</item>
@@ -3226,7 +3227,7 @@
                         <cell> </cell>
                         <cell>25</cell>
                      </row>
-                     <pb n="35" facs="tcp:033205_0034_0FF674D859631988"/>
+                     <pb n="35" facs="unknown:033205_0034_0FF674D859631988"/>
                      <row>
                         <cell>Children's Friend, Abridged,</cell>
                         <cell> </cell>
@@ -3382,7 +3383,7 @@
                         <cell> </cell>
                         <cell>17</cell>
                      </row>
-                     <pb n="36" facs="tcp:033205_0035_0FF674DA6CC49628"/>
+                     <pb n="36" facs="unknown:033205_0035_0FF674DA6CC49628"/>
                      <row>
                         <cell>Signs of the Times, by Bechino,</cell>
                         <cell> </cell>
